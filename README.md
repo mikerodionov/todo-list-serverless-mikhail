@@ -1,6 +1,6 @@
 # Serverless REST API Todo List App
 
-This is a sample REST API Todo List App configured for deployment using Serverless Framework (https://www.serverless.com/) to AWS. App consist of number of Python functions which are deployed to AWS Lambda (AWS SAM). Intended for Assignment 1-A which involves use pf the following components:
+This is a sample REST API Todo List App configured for deployment using [Serverless Framework](https://www.serverless.com/) to AWS. App consist of number of Python functions which are deployed to AWS Lambda (AWS SAM). Intended for Assignment 1-A which involves use pf the following components:
 
 GitHub - code control/repo
 Serverless Framework - CI/CD orquestration
