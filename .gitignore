@@ -137,3 +137,6 @@ terraform/terraform
 terraform/terraform.tfstate.backup
 terraform/.terraform
 node_modules
+
+# Serverless
+.serverless/
