@@ -49,4 +49,10 @@ Repository structure:
 
 # Prerequisites/additional notes
 
-N/A
+Note on branches:
+
+**Feature** - branch for adding new feature(s) (Translate function) which is getting merged with Develop after review/local tests.
+
+**Develop** - maing development branch, merge triggers Serverless pipeline to deploy/update Staging environment in AWS. Optionally tests can be added for validation at this stage.
+
+**Master** - main/production branch mergin into it deploys/updates Production environment in AWS.
